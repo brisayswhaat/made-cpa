@@ -220,6 +220,14 @@ Site Header Styles -- */
 /*!--
 Made in Central PA
 Site Hero Styles -- */
+.hero {
+  background: #964e4e;
+  width: 100%;
+  height: 10%; }
+
+.logo-big {
+  width: 500px; }
+
 /*!--
 Made in Central PA
 Site Structure Styles -- */
