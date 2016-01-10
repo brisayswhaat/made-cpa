@@ -1,0 +1,36 @@
+/*!
+Theme Name: Made-in-CPA
+Theme URI: n/a
+Author: Bri Piccari / Jared Adams / Ryaan Beck
+Author URI: http://bripiccari.me / jaredadams.me / ryaan.me
+Description: n/a
+Version: 1.0.0
+License: n/a
+Text Domain: n/a
+Tags: n/a
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal http://necolas.github.com/normalize.css/
+*/
+
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Normalize
+# Base
+# Typography
+# Cards
+# Header
+# Hero
+# Structure
+# Footer
+--------------------------------------------------------------*/
+
+@import 'normalize';
+@import 'base';
+@import 'typography';
+@import 'cards';
+@import 'header';
+@import 'hero';
+@import 'structure';
+@import 'footer';
