@@ -1,3 +1,25 @@
 /*!--
 Made in Central PA
 Site Base Styles -- */
+
+    /*! -- Site Colors --*/
+    $white:            #fff;
+    $red:              #964e4e;
+    $dark-tan:         #e9dfd1;
+    $light-tan:        #f4eee6;
+    $mustard:          #d5a977;
+    $off-gray:         #b3a691;
+
+    // break points
+    $screen-small:        320px;
+    $screen-medium:       768px;
+    $screen-large:        960px;
+    $screen-xlarge:       1050px;
+    $screen-xxlarge:      1200px;
+
+    //z index
+    $layer-subzero:       -10;
+    $layer-zero:          0;
+    $layer-one:           10;
+    $layer-two:           20;
+    $layer-three:         30;
